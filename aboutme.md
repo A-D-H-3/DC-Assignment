@@ -7,7 +7,7 @@
 1. The Count of Monte Cristo
 1. Inside Out
 ## Houston, TX
-![Houston Skyline](/images/Downtown_Houston,_TX-480x300.jpg)
+![Houston Skyline](https://A-D-H-3.github.com/DC-Assignment/Downtown_Houston,_TX-480x300.jpg)
 ## Pets
 ![Yoshi](/images/images.jpg)
 ## Random Picture
