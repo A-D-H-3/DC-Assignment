@@ -7,8 +7,8 @@
 1. The Count of Monte Cristo
 1. Inside Out
 ## Houston, TX
-![Houston Skyline] (test-site/images/Downtown_Houston,_TX-480x300.jpg)
+![Houston Skyline] (images/Downtown_Houston,_TX-480x300.jpg)
 ## Pets
-![Yoshi] (test-site/images/images.jpg)
+![Yoshi] (images/images.jpg)
 ## Random Picture
-![Dark Knight Symbol] (test-site/images/dark-knight-symbol-480x300.jpg)
+![Dark Knight Symbol] (images/dark-knight-symbol-480x300.jpg)f
