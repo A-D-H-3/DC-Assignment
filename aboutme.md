@@ -8,7 +8,7 @@
 1. Inside Out
 ## Houston, TX
 ![Houston Skyline]
-(https://github.com/A-D-H-3/Downtown_Houston,_TX-480x300.jpg)
+(https://github.com/A-D-H-3/DC-Assignment/blob/master/Downtown_Houston%2C_TX-480x300.jpg)
 ## Pets
 ![Yoshi]
 (https://github.com/A-D-H-3/DC-Assignment/images.jpg)
