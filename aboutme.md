@@ -8,10 +8,10 @@
 1. Inside Out
 ## Houston, TX
 ![Houston Skyline]
-(/images/Downtown_Houston,_TX-480x300.jpg)
+(https://github.com/A-D-H-3/Downtown_Houston,_TX-480x300.jpg)
 ## Pets
 ![Yoshi]
-(images/A-D-H-3/DC-Assignment/images.jpg)
+(https://github.com/A-D-H-3/DC-Assignment/images.jpg)
 ## Random Picture
 ![Dark Knight Symbol]
-(images/dark-knight-symbol-480x300.jpg)
+(https://github.com/A-D-H-3/DC-Assignment/dark-knight-symbol-480x300.jpg)
