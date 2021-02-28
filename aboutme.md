@@ -7,11 +7,8 @@
 1. The Count of Monte Cristo
 1. Inside Out
 ## Houston, TX
-![Houston Skyline]
-(https://github.com/A-D-H-3/DC-Assignment/blob/master/Downtown_Houston%2C_TX-480x300.jpg)
+![Houston Skyline](https://github.com/A-D-H-3/DC-Assignment/blob/master/Downtown_Houston%2C_TX-480x300.jpg)
 ## Pets
-![Yoshi]
-(https://github.com/A-D-H-3/DC-Assignment/blob/master/image.jpg)
+![Pet](https://github.com/A-D-H-3/DC-Assignment/blob/master/image.jpg)
 ## Random Picture
-![Dark Knight Symbol]
-(https://github.com/A-D-H-3/DC-Assignment/blob/master/dark-knight-symbol-480x300.jpg)
+![Dark Knight Symbol](https://github.com/A-D-H-3/DC-Assignment/blob/master/dark-knight-symbol-480x300.jpg)
